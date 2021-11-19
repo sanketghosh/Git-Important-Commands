@@ -28,8 +28,8 @@
 9. git add . : To track all the untracked file
 10. git commit -m "commit message" : To commit the files
 11. git branch -M < branch name > : To change the branch
-12. git remote add origin https://github.com/github_username/repo_name.git
-13. git push -u origin < the branch u want to push in >
+12. git remote add origin https://github.com/github_username/repo_name.git : To add the files/changes to your new repo (no need to use it if you are pushing changes to your existing repo)
+13. git push -u origin < the branch u want to push in > : To push it inside your repo
 14. git log : To Check all your commits
 
 ### For the first time use it'll ask for authentication , just follow the steps it's asking to follow, it'll take just 1-2 mins.
